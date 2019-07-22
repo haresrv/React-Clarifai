@@ -32,7 +32,7 @@ const initial_state={
   entries:0,
   joined:''
  
-}
+}}
 
 class App extends Component {
   
